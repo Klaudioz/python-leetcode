@@ -16,4 +16,4 @@ class Solution(object):
         return -1, -1
 
 solution = Solution()
-print(solution.twoSumDic([2,7,11,15],9))
+print(solution.twoSumDic([2,7,11,15],22))
